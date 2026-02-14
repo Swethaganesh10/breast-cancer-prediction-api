@@ -278,10 +278,3 @@ Potential improvements for this project:
 
 ---
 
-## License
-
-This project is for educational purposes as part of IE7374 MLOps course at Northeastern University.
-
----
-
-**Contact:** Swetha Ganesh | Northeastern University | Spring 2026
