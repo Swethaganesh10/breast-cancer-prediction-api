@@ -2,7 +2,7 @@
 
 **Author:** Swetha Ganesh  
 **Course:** IE7374 Machine Learning Operations - Spring 2026  
-**Modified Lab:** FastAPI Lab 1
+**Modified Lab:** FastAPI 
 
 ---
 
