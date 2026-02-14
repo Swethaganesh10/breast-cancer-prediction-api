@@ -257,18 +257,6 @@ curl -X POST "http://localhost:8000/predict" \
 
 ---
 
-## Future Enhancements
-
-Potential improvements for this project:
-- Add batch prediction endpoint for multiple samples
-- Implement model versioning and A/B testing
-- Add authentication and rate limiting
-- Deploy to cloud platform (AWS, GCP, Azure)
-- Add monitoring and logging
-- Create frontend interface for predictions
-
----
-
 ## References
 
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
